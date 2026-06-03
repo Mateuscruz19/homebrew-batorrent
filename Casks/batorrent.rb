@@ -1,6 +1,6 @@
 cask "batorrent" do
-  version "3.0.0"
-  sha256 "6f849a6104770e370b86de56025474bd491b3d919ebf4650488087051ab9504b"
+  version "3.0.1"
+  sha256 "76d9ab5171aa5f2b2d089a24a4565c645060745a117616963db00bca25604c6b"
 
   url "https://github.com/Mateuscruz19/BAT-Torrent/releases/download/v#{version}/BATorrent-macos-arm64.dmg"
   name "BATorrent"
